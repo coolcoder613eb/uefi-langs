@@ -1,0 +1,10 @@
+will be shortened:
+itertools
+contextlib
+pkg_resources
+traceback
+threading
+collections
+functools
+curses.ascii
+__future__
